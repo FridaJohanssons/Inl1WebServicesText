@@ -1,0 +1,13 @@
+Inlämningsuppgift 1 Web services.
+
+Vi har i grupparbetet till och börja med suttit mycket på egen hand och försökt få grepp
+om det vi gått igenom på genomgångarna och vad labben handla om. Vi alla tyckte det kändes som 
+en väldigt stor och svår uppgift. Jag lärde mig mest genom att titta på de inspelade föreläsningarna
+och försöka efterlikna och skriva koden själv. Dett funkade bra men var tyvärr för tidskrävande
+för att hinna gå igenom alla videos. Det kändes även svårt att hoppa fram i videosarna för då 
+missade man något och lyckades inte hänga med längre. Jag jobbade på ett projekt vid sidan av 
+min grupps projekt och sen hjälptes vi åt och delade med oss av det vi lärt oss och så skrev Ola koden. 
+Det grundläggande lärde vi nog alla oss och hjälptes åt med.
+Jag la till sist mycket tid med att försöka koppla projektet till databasen.Det var som sagt en mycket
+svår labb men alla i gruppen försökte sitt bästa. Alla i gruppen försökte hjälpa till och även om vissa lyckades bättre
+än andra så känner jag mig nöjd med hur våran grupp har arbetade tilsammans. 
